@@ -1,4 +1,4 @@
-ExtendScripts
+ExtendScripts (Adobe ExtendScript scripts)
 =============
 
-My collection of extend scripts.
+My collection of adobe extend scripts.
