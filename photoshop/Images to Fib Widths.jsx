@@ -2,15 +2,17 @@
     
     var originalRulerUnits = app.preferences.rulerUnits,
     
+    // suffixes and widths map to resize to
     imagePrefixesSizes = {
-        //'-size-8': 2548,
-        '-size-7': 1597,
-        '-size-6': 987,
-        '-size-5': 610,
-        '-size-4': 377,
-        '-size-3': 233,
-        '-size-2': 144,
-        '-size-1': 89
+		'-12': 4181,
+        '-8': 2548,
+        '-7': 1597,
+        '-6': 987,
+        '-5': 610,
+        '-4': 377,
+        '-3': 233,
+        '-2': 144,
+        '-1': 89
     },
 
     outputFolderSrcName = "JPEGs",
